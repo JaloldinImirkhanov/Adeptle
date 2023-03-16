@@ -9,7 +9,7 @@ module.exports = {
         sans3: ["Red Hat Display", "sans-serif"],
       },
       maxWidth: {
-        base: "1440px",
+        base: "1212px",
       },
       colors: {
         brand: {
@@ -25,6 +25,9 @@ module.exports = {
       },
       lineHeight: {
         70: "70px",
+      },
+      boxShadow: {
+        base: " 7px 11px 24px rgba(21, 21, 22, 0.27)",
       },
     },
   },
