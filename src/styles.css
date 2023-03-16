@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3 {
+    @apply font-Montserrat text-brand-darkBlue font-medium;
+  }
+
+  p {
+    @apply font-playfairDisplay;
+  }
+}
+
+H1,
+H2,
+H3 {
+}
